@@ -83,6 +83,7 @@ String? decideWinner(
   }
 }
 
+/// Runs the Rock, Paper, Scissors Game.
 void main() {
   print('===== ROCK, PAPER, SCISSORS =====');
 
